@@ -43,7 +43,7 @@ class _OtpScreenState extends State<OtpScreen> {
                           child: const Icon(Icons.arrow_back),
                         ),
                       ),
-                      Container(
+                      Container(8
                         width: 200,
                         height: 200,
                         padding: const EdgeInsets.all(20.0),
